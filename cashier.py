@@ -1,4 +1,4 @@
-class Items():
+class Items:
     def __init__(self, code, price, quantity):
         self.code = code
         self.price = price
